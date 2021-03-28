@@ -1,0 +1,2 @@
+# aikocute
+hackintosh
